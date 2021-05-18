@@ -18,7 +18,7 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
     <li>Modelo (Model)</li>    
 </ul>
 
-![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/Im%C3%A1genes/Regresion.png)
+![](/Im%C3%A1genes/Regresion.png)
 
 ## [Proyecto 2: Regresión Logística - Predicción de admisión de un estudiante a una universidad](www.google.com)
 
@@ -32,7 +32,7 @@ Se cuenta con una base de datos que cuenta con las siguientes entradas de cada a
     <li>Género (Gender)</li>    
 </ul>
 
-![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/Im%C3%A1genes/Matriz%20de%20confusi%C3%B3n%201.png)
+![](/Im%C3%A1genes/Matriz%20de%20confusi%C3%B3n%201.png)
 
 ## [Proyecto 3: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](www.google.cl)
 
@@ -47,7 +47,7 @@ El conjunto de datos contiene las siguientes entradas para cada planta observada
     <li>Ancho del pétalo (petal_width)</li>
 </ul>
 
-![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/Im%C3%A1genes/Clustering.png)
+![](/Im%C3%A1genes/Clustering.png)
 
 ## [Proyecto 4: Redes Neuronales - Predecir si un cliente volverá a comprar en una tienda de Audiolibros](www.google.cl)
 
@@ -80,4 +80,4 @@ La base de datos cuenta con la siguiente informacion de cada cliente:
  
 </ul>
 
-![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/Im%C3%A1genes/Precision%20modelo.png) ![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/Im%C3%A1genes/Network.png)
+![](/Im%C3%A1genes/Precision%20modelo.png) ![](/Im%C3%A1genes/Network.png)
