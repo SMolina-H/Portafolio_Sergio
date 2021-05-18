@@ -1,7 +1,7 @@
 # Portafolio_Sergio
 Portafolio de Data Science
 
-## [Proyecto 1: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://www.google.com/search?q=google&rlz=1C1CHBF_esCL890CL890&oq=google&aqs=chrome..69i57j69i59j0i67j0i67i131i433j69i60l3j69i65.894j0j7&sourceid=chrome&ie=UTF-8)
+## [Proyecto 1: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_lineal_multivariada)
 
 Se utilizó un modelo de Regresión Lineal Múltiple para predecir el valor del precio de distintos automóviles en base a sus distintas características.
 
@@ -20,7 +20,7 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
 
 ![](/img/Regresion.png)
 
-## [Proyecto 2: Regresión Logística - Predicción de admisión de un estudiante a una universidad](www.google.com)
+## [Proyecto 2: Regresión Logística - Predicción de admisión de un estudiante a una universidad](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_logistica)
 
 Se utiliza el modelo de Regresión Logística para predecir si un alumno es admitido o rechazado en una universidad en base a su sexo y rendimiento en el Examen de Aptitud Académica para ingresar a una universidad.
 
@@ -34,7 +34,7 @@ Se cuenta con una base de datos que cuenta con las siguientes entradas de cada a
 
 ![](/img/Matriz_de_confusion_1.png)
 
-## [Proyecto 3: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](www.google.cl)
+## [Proyecto 3: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](https://github.com/SMolina-H/Proyectos/tree/main/Clustering)
 
 El dataset de las plantas Irirs es uno de los más populares en Machine Learning. Para este caso se realizó un análisis de grupos para segmentar los distintos tipos de especies de la planta Iris.
 
@@ -49,7 +49,7 @@ El conjunto de datos contiene las siguientes entradas para cada planta observada
 
 ![](/img/Clustering.png)
 
-## [Proyecto 4: Redes Neuronales - Predecir si un cliente volverá a comprar en una tienda de Audiolibros](www.google.cl)
+## [Proyecto 4: Redes Neuronales - Predecir si un cliente volverá a comprar en una tienda de Audiolibros](https://github.com/SMolina-H/Proyectos/tree/main/Redes_Neuronales)
 
 Este problema trata sobre predecir si un cliente volverá a realizar una compra en una tienda de audiolibros en base a su comportamiento histórico con la tienda utilizando Redes Neuronales.
 
