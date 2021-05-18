@@ -80,4 +80,4 @@ La base de datos cuenta con la siguiente informacion de cada cliente:
  
 </ul>
 
-![](/img/Precision_modelo.png) ![](/img/Network.png)
+![](/img/Precision_modelo.png) ![](/img/Red.png)
