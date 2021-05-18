@@ -66,7 +66,7 @@ La base de datos cuenta con la siguiente informacion de cada cliente:
 
 <li>Precio promedio pagado por cada libro</li>
 
-<li>Review(1 si el cliente dejó review, 0 en caso contrario)</li>
+<li>Review (1 si el cliente dejó review, 0 en caso contrario)</li>
 
 <li>Nota de review promedio de libros (escala de 1 al 10)</li>
 
