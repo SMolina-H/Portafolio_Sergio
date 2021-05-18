@@ -1,4 +1,4 @@
-# Portafolio_Sergio
+# Portafolio_Sergio_Molina
 Portafolio de Data Science
 
 ## [Proyecto 1: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_lineal_multivariada)
