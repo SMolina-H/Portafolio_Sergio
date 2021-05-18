@@ -32,7 +32,7 @@ Se cuenta con una base de datos que cuenta con las siguientes entradas de cada a
     <li>Género (Gender)</li>    
 </ul>
 
-![](/img/Matriz%20de%20confusi%C3%B3n%201.png)
+![](/img/Matriz_de_confusion_1.png)
 
 ## [Proyecto 3: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](www.google.cl)
 
@@ -80,4 +80,4 @@ La base de datos cuenta con la siguiente informacion de cada cliente:
  
 </ul>
 
-![](/img/Precision%20modelo.png) ![](/Im%C3%A1genes/Network.png)
+![](/img/Precision_modelo.png) ![](/img/Network.png)
