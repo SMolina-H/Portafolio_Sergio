@@ -1,6 +1,6 @@
 # Portafolio_Sergio
 
-Portafolio de Data Science
+Portafolio de aplicaciones de distintas metodologías de Data Science en problemas del mundo real.
 
 ## [Proyecto 1: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_lineal_multivariada)
 
