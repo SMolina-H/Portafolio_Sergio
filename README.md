@@ -9,14 +9,14 @@ Se utilizó un modelo de Regresión Lineal Múltiple para predecir el valor del 
 Se contó con una base de datos que contiene las siguientes entradas de cada vehículo:
 
 <ul>
-    <li>Marca (Brand)</li>
-    <li>Precio (Price) ------------ Variable a predecir </li>
-    <li>Tipo (Body)</li>
-    <li>Millas recorridas (Mileage)</li>
-    <li>Motor (EngineV)</li>
-    <li>Tipo de motor (Engine Type)</li>
-    <li>Año (Year)</li>
-    <li>Modelo (Model)</li>    
+    <li>Marca</li>
+    <li>Precio ------------ Variable a predecir </li>
+    <li>Tipo</li>
+    <li>Millas recorridas</li>
+    <li>Motor</li>
+    <li>Tipo de motor</li>
+    <li>Año</li>
+    <li>Modelo</li>    
 </ul>
 
 ![](/img/Regresion.png)
@@ -29,8 +29,8 @@ Se cuenta con una base de datos que contiene las siguientes entradas de cada alu
 
 <ul>
     <li>Puntaje Examen de Aptitud Académica (SAT)</li>
-    <li>Admitido (Admitted) ------------ Variable a predecir </li>
-    <li>Género (Gender)</li>    
+    <li>Admitido ------------ Variable a predecir </li>
+    <li>Género</li>    
 </ul>
 
 ![](/img/Matriz_de_confusion_1.png)
