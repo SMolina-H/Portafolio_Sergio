@@ -23,7 +23,7 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
 
 Se utiliza el modelo de Regresión Logística para predecir si un alumno es admitido o rechazado en una universidad en base a su sexo y rendimiento en el Examen de Aptitud Académica para ingresar a una universidad.
 
-Se cuenta con una base de datos que cuenta con las siguientes entradas de cada alumno:
+Se cuenta con una base de datos que contiene con las siguientes entradas de cada alumno:
 
 <ul>
     <li>Puntaje Examen de Aptitud Académica (SAT)</li>
