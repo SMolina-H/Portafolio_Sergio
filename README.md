@@ -56,7 +56,7 @@ Este problema trata sobre predecir si un cliente volverá a realizar una compra 
 
 Para lo anterior se cuenta con una base de datos que contiene 2 años de recolección de datos de cada cliente, y para ver si un cliente volvió a comprar en la tienda se utilizaron 6 meses adicionales de observación, así, se predecirá si un cliente volverá a realizar una compra dentro de dichos 6 meses.
 
-La base de datos cuenta con la siguiente informacion de cada cliente:
+Se tiene la siguiente informacion de cada cliente:
 <ul>
     <li>ID de cliente</li>
 <li>Suma de duración en minutos de todos sus libros</li>
