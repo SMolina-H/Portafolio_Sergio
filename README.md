@@ -61,7 +61,7 @@ Se tiene la siguiente informacion de cada cliente:
     <li>ID de cliente</li>
 <li>Suma de duración en minutos de todos sus libros</li>
 
-<li>Duracion promedio de cada libro</li>
+<li>Duración promedio de cada libro</li>
 
 <li>Suma de dinero total pagada por todos los libros</li>
 
