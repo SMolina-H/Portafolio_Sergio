@@ -10,7 +10,7 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
 
 <ul>
     <li>Marca</li>
-    <li>Precio ------------ Variable a predecir </li>
+    <li>Precio ------------> Variable a predecir </li>
     <li>Tipo</li>
     <li>Millas recorridas</li>
     <li>Motor</li>
@@ -29,7 +29,7 @@ Se cuenta con una base de datos que contiene las siguientes entradas de cada alu
 
 <ul>
     <li>Puntaje Examen de Aptitud Académica (SAT)</li>
-    <li>Admitido ------------ Variable a predecir </li>
+    <li>Admitido ------------> Variable a predecir </li>
     <li>Género</li>    
 </ul>
 
@@ -77,7 +77,7 @@ Se tiene la siguiente informacion de cada cliente:
 
 <li>Tiempo transcurrido desde la primera compra y última vez que abrió el libro</li>
     
-<li>Target (1 si compró en los ultimos 6 meses, 0 en caso contrario) ------------ Variable a predecir</li>
+<li>Target (1 si compró en los ultimos 6 meses, 0 en caso contrario) ------------> Variable a predecir</li>
  
 </ul>
 
