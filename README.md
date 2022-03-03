@@ -44,7 +44,7 @@ Se utilizó un modelo de Regresión Lineal Múltiple para predecir el valor del 
 Se contó con una base de datos que contiene las siguientes entradas de cada vehículo:
 
 <ul>
-    <li>Precio ------------> Variable a predecir </li>
+    <li>Precio ------------> Variable a predecir</li>
     <li>Marca</li>
     <li>Tipo</li>
     <li>Millas recorridas</li>
@@ -63,7 +63,7 @@ Se utiliza el modelo de Regresión Logística para predecir si un alumno es admi
 Se cuenta con una base de datos que contiene las siguientes entradas de cada alumno:
 
 <ul>
-    <li>Admitido ------------> Variable a predecir </li>
+    <li>Admitido ------------> Variable a predecir</li>
     <li>Puntaje Examen de Aptitud Académica (SAT)</li>
     <li>Género</li>    
 </ul>
