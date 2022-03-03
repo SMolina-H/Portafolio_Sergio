@@ -10,7 +10,11 @@ Para lo anterior se cuenta con una base de datos que contiene 2 años de recolec
 
 Se tiene la siguiente informacion de cada cliente:
 <ul>
-    <li>ID de cliente</li>
+ 
+<li>Target (1 si compró en los ultimos 6 meses, 0 en caso contrario) ------------> Variable a predecir</li>
+    
+<li>ID de cliente</li>
+    
 <li>Suma de duración en minutos de todos sus libros</li>
 
 <li>Duración promedio de cada libro</li>
@@ -28,8 +32,6 @@ Se tiene la siguiente informacion de cada cliente:
 <li>Porcentaje completado del último libro</li>
 
 <li>Tiempo transcurrido desde la primera compra y última vez que abrió el libro</li>
-    
-<li>Target (1 si compró en los ultimos 6 meses, 0 en caso contrario) ------------> Variable a predecir</li>
  
 </ul>
 
@@ -42,8 +44,8 @@ Se utilizó un modelo de Regresión Lineal Múltiple para predecir el valor del 
 Se contó con una base de datos que contiene las siguientes entradas de cada vehículo:
 
 <ul>
-    <li>Marca</li>
     <li>Precio ------------> Variable a predecir </li>
+    <li>Marca</li>
     <li>Tipo</li>
     <li>Millas recorridas</li>
     <li>Motor</li>
@@ -61,8 +63,8 @@ Se utiliza el modelo de Regresión Logística para predecir si un alumno es admi
 Se cuenta con una base de datos que contiene las siguientes entradas de cada alumno:
 
 <ul>
-    <li>Puntaje Examen de Aptitud Académica (SAT)</li>
     <li>Admitido ------------> Variable a predecir </li>
+    <li>Puntaje Examen de Aptitud Académica (SAT)</li>
     <li>Género</li>    
 </ul>
 
