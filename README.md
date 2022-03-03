@@ -2,7 +2,7 @@
 
 Portafolio de aplicaciones de distintas metodologías de Data Science en problemas del mundo real.
 
-## [Proyecto 1: Redes Neuronales - Predecir si un cliente volverá a comprar en una tienda de Audiolibros](https://github.com/SMolina-H/Proyectos/tree/main/Redes_Neuronales)
+## [(Link) Proyecto 1: Redes Neuronales - Predecir si un cliente volverá a comprar en una tienda de Audiolibros](https://github.com/SMolina-H/Proyectos/tree/main/Redes_Neuronales)
 
 Este problema trata sobre predecir si un cliente volverá a realizar una compra en una tienda de audiolibros en base a su comportamiento histórico con la tienda utilizando Redes Neuronales.
 
@@ -35,7 +35,7 @@ Se tiene la siguiente informacion de cada cliente:
 
 ![](/img/Precision_modelo.png) ![](/img/red_neuronal.png)
 
-## [Proyecto 2: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_lineal_multivariada)
+## [(Link) Proyecto 2: Regresión Lineal Multivariada - Predicción de precios de automóviles](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_lineal_multivariada)
 
 Se utilizó un modelo de Regresión Lineal Múltiple para predecir el valor del precio de distintos automóviles en base a sus distintas características.
 
@@ -54,7 +54,7 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
 
 ![](/img/Regresion.png)
 
-## [Proyecto 3: Regresión Logística - Predicción de admisión de un estudiante a una universidad](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_logistica)
+## [(Link) Proyecto 3: Regresión Logística - Predicción de admisión de un estudiante a una universidad](https://github.com/SMolina-H/Proyectos/tree/main/Regresion_logistica)
 
 Se utiliza el modelo de Regresión Logística para predecir si un alumno es admitido o rechazado en una universidad en base a su sexo y rendimiento en el Examen de Aptitud Académica para ingresar a una universidad.
 
@@ -68,7 +68,7 @@ Se cuenta con una base de datos que contiene las siguientes entradas de cada alu
 
 ![](/img/Matriz_de_confusion_1.png)
 
-## [Proyecto 4: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](https://github.com/SMolina-H/Proyectos/tree/main/Clustering)
+## [(Link) Proyecto 4: Clustering - Segmentación de especies de plantas Iris con análisis de grupos](https://github.com/SMolina-H/Proyectos/tree/main/Clustering)
 
 El dataset de las plantas Irirs es uno de los más populares en Machine Learning. Para este caso se realizó un análisis de grupos para segmentar los distintos tipos de especies de la planta Iris de acuerdo a las medidas de sus pétalos y sépalos.
 
